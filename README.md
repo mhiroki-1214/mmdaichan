@@ -1,7 +1,7 @@
 <!-- Markdown: Open Preview to the side -->
 # MMDアイちゃんの説明 #
 ## ファイルの中身確認 ##
-haihuの中に入ってる物は以下の通りです。
+中に入ってる物は以下の通りです。
 ```
 haihu
   ┗ musubiai2.0
